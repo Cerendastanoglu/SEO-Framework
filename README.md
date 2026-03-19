@@ -41,6 +41,8 @@ In your new app:
 - `snippets/robots-sitemap.md` - `robots.ts` and `sitemap.ts` examples
 - `snippets/next-sitemap.config.mjs` - `next-sitemap` config starter
 - `snippets/reliable-stack-setup.md` - vetted stack integration guide
+- `snippets/package-scripts.md` - `package.json` script templates
+- `snippets/.env.example` - site URL environment starter
 
 ## Notes
 
